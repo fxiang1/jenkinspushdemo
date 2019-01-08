@@ -8,6 +8,6 @@ entries:
     digest: 64a66c980b5167e0276d54060a5bebeea598801a209238d2b9610636c02d4113
     name: jenkinspushdemo
     urls:
-    - https://raw.githubusercontent.com/kyo11103/jenkinspushdemo/master/jenkinspushdemo-0.2.0.tgz
-    version: 0.2.0
+    - https://raw.githubusercontent.com/kyo11103/jenkinspushdemo/master/jenkinspushdemo-0.4.0.tgz
+    version: 0.4.0
 generated: 2018-12-11T14:05:28.158766185-08:00
